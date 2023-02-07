@@ -6,7 +6,7 @@ export default defineConfig({
 	plugins: [sveltekit()],
 	resolve: {
 		alias: {
-			'@douganderson444/heatmap': path.resolve('src/lib'),
+			'@douganderson444/calendar-activity-heatmap': path.resolve('src/lib'),
 			'@douganderson444/calendar-activity-heatmap/esm': path.resolve('package/esm')
 		}
 	},
