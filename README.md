@@ -8,6 +8,8 @@ A light weight and customizable version of GitHub's contribution graph.
 
 [![Heatmap examples](https://user-images.githubusercontent.com/7980426/78958159-27d55280-7a9c-11ea-9b08-8b5d7df31d7a.png)](https://svelte-heatmap.netlify.app/)
 
+## 🧐 [Live Demo](https://douganderson444.github.io/calendar-activity-heatmap/)
+
 ## 📦 Installation
 
 The recommended way to install this package is through NPM.
