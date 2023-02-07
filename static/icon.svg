@@ -1,0 +1,10 @@
+<!-- SVG of four different shades of green squares in quadrants, with rect rx=2 and white border with width =1 -->
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+  <rect x="0" y="0" width="8" height="8" fill="#d6e685" stroke="#fff" stroke-width="1" rx="2"/>
+  <rect x="8" y="0" width="8" height="8" fill="#8cc665" stroke="#fff" stroke-width="1" rx="2"/>
+  <rect x="0" y="8" width="8" height="8" fill="#44a340" stroke="#fff" stroke-width="1" rx="2"/>
+  <rect x="8" y="8" width="8" height="8" fill="#1e6823" stroke="#fff" stroke-width="1" rx="2"/>
+</svg>
+
+
+
