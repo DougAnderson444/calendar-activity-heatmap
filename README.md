@@ -1,10 +1,10 @@
 # Calendar Activity Heatmap
 
-[![npm](https://img.shields.io/npm/v/calendar-activity-heatmap.svg)](https://www.npmjs.com/package/@douganderson444/calendar-activity-heatmap)
-
 A light weight and customizable version of GitHub's contribution graph.
 
 <b>Built with ❤️ using SvelteKit 1.0.0.</b>
+
+[![npm](https://img.shields.io/npm/v/@douganderson444/calendar-activity-heatmap.svg)](https://www.npmjs.com/package/@douganderson444/calendar-activity-heatmap)
 
 [![Heatmap examples](https://user-images.githubusercontent.com/7980426/78958159-27d55280-7a9c-11ea-9b08-8b5d7df31d7a.png)](https://svelte-heatmap.netlify.app/)
 
